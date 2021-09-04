@@ -3,10 +3,10 @@
 
 <br />
 
-### Connect with me:
+### Find me on:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="aksahdash.me" width="22px" src="https://img.icons8.com/ios/50/000000/domain.png" />][website]
+[<img align="left" alt="akashdash458 | LinkedIn" width="22px" src="https://img.icons8.com/ios/144/000000/linkedin.png" />][linkedin]
 
 
 <br />
