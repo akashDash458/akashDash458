@@ -6,7 +6,7 @@
 
 [<img align="left" alt="aksahdash.me" width="22px" src="https://img.icons8.com/windows/64/ffffff/domain-name.png" />][website]
 [<img align="left" alt="akashdash458 | LinkedIn" width="22px" src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" />][linkedin]
-
+[<img align="left" alt="akashdash458 | LinkedIn" width="22px" src="https://img.icons8.com/windows/32/ffffff/dev.png" />][dev.to]
 
 <br />
 
@@ -40,7 +40,9 @@
 
 [website]: http://aksahdash.me
 [linkedin]: https://www.linkedin.com/in/akashdash458/
+[dev.to]: https://dev.to/akashdash458
 [leetcode]: https://leetcode.com/akashdash458/
+[github]: https://github.com/akashDash458
 
 <!-- 
 
