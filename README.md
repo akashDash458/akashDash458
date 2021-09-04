@@ -13,10 +13,13 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Python 3" width="26px" src="https://img.icons8.com/color/144/000000/python--v2.png"/>
-<img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo--v1.png" />
-<img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/240/000000/c-plus-plus-logo.png" />
-<img align="left" alt="Go" width="26px" src="https://img.icons8.com/color/144/000000/golang.png" />
+[<img align="left" alt="Python 3" width="26px" src="https://img.icons8.com/color/144/000000/python--v2.png"/>][website]
+[<img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo--v1.png" />][website]
+[<img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/240/000000/c-plus-plus-logo.png" />][website]
+[<img align="left" alt="Go" width="26px" src="https://img.icons8.com/color/144/000000/golang.png" />][website]
+[<img align="left" alt="Play Framework" width="26px" src="https://avatars.githubusercontent.com/u/319107" />][website]
+[<img align="left" alt="Spring Boot" width="26px" src="https://img.icons8.com/color/48/000000/spring-logo.png" />][website]
+[<img align="left" alt="OIDC" width="26px" src="https://img.icons8.com/color/96/000000/openid.png" />][website]
 
 
 <br />
@@ -29,5 +32,5 @@
 
 <!-- 
 
-<img src="https://img.icons8.com/windows/64/ffffff/domain-name.png"/>
+
  -->
