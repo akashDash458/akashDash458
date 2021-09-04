@@ -30,6 +30,12 @@
 [<img align="left" alt="Elastisearch" width="26px" src="https://img.icons8.com/color/48/000000/elasticsearch.png" />][website]
 [<img align="left" alt="Rabbit MQ" width="26px" src="https://avatars.githubusercontent.com/u/96669" />][website]
 
+<br />
+<br />
+<div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashdash458&layout=compact&hide_title=1&card_width=300&theme=algolia" alt="Top language used in my repos" />
+</div>
+
 
 <br />
 <br />
