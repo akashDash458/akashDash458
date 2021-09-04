@@ -2,11 +2,12 @@
 
 <br />
 
-### Find me on:
+### Reach out to me on:
 
 [<img align="left" alt="aksahdash.me" width="22px" src="https://img.icons8.com/windows/64/ffffff/domain-name.png" />][website]
 [<img align="left" alt="akashdash458 | LinkedIn" width="22px" src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" />][linkedin]
-[<img align="left" alt="akashdash458 | LinkedIn" width="22px" src="https://img.icons8.com/windows/32/ffffff/dev.png" />][dev.to]
+[<img align="left" alt="akashdash458 | dev.to" width="22px" src="https://img.icons8.com/windows/32/ffffff/dev.png" />][dev.to]
+[<img align="left" alt="akashdash458 | Gmail" width="22px" src="https://img.icons8.com/material-rounded/24/ffffff/mail.png" />][email]
 
 <br />
 
@@ -35,6 +36,8 @@
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=algolia)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
@@ -43,6 +46,7 @@
 [dev.to]: https://dev.to/akashdash458
 [leetcode]: https://leetcode.com/akashdash458/
 [github]: https://github.com/akashDash458
+[email]: mailto:akashdash458+github@gmail.com
 
 <!-- 
 
