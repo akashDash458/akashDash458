@@ -1,6 +1,5 @@
 ### Hi there, I'm  [Akash][website] 👋
 
-
 <br />
 
 ### Find me on:
@@ -34,8 +33,7 @@
 <br />
 <br />
 
-### Github Stats
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=akashdash458&show_icons=true&hide_border=true" />
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=algolia)
 
 
 
