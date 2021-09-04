@@ -20,6 +20,9 @@
 [<img align="left" alt="Play Framework" width="26px" src="https://avatars.githubusercontent.com/u/319107" />][website]
 [<img align="left" alt="Spring Boot" width="26px" src="https://img.icons8.com/color/48/000000/spring-logo.png" />][website]
 [<img align="left" alt="OIDC" width="26px" src="https://img.icons8.com/color/96/000000/openid.png" />][website]
+[<img align="left" alt="Postgres" width="26px" src="https://img.icons8.com/color/96/000000/postgreesql.png" />][website]
+[<img align="left" alt="Redis" width="26px" src="https://img.icons8.com/color/48/000000/redis.png" />][website]
+[<img align="left" alt="Elastisearch" width="26px" src="https://img.icons8.com/color/48/000000/elasticsearch.png" />][website]
 
 
 <br />
