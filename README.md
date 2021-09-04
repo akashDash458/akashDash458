@@ -5,8 +5,8 @@
 
 ### Find me on:
 
-[<img align="left" alt="aksahdash.me" width="22px" src="https://img.icons8.com/ios/50/000000/domain.png" />][website]
-[<img align="left" alt="akashdash458 | LinkedIn" width="22px" src="https://img.icons8.com/ios/144/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="aksahdash.me" width="22px" src="https://img.icons8.com/windows/64/ffffff/domain-name.png" />][website]
+[<img align="left" alt="akashdash458 | LinkedIn" width="22px" src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" />][linkedin]
 
 
 <br />
@@ -29,5 +29,5 @@
 
 <!-- 
 
-
+<img src="https://img.icons8.com/windows/64/ffffff/domain-name.png"/>
  -->
