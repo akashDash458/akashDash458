@@ -34,6 +34,11 @@
 <br />
 <br />
 
+### Github Stats
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=akashdash458&show_icons=true&hide_border=true" />
+
+
+
 
 [website]: http://aksahdash.me
 [linkedin]: https://www.linkedin.com/in/akashdash458/
