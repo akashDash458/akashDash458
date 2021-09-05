@@ -40,7 +40,6 @@
 <br />
 <br />
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=algolia)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
