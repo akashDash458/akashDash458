@@ -1,7 +1,5 @@
 ### Hi there, I'm  [Akash][website] 👋
 
-<br />
-
 ### Reach out to me on:
 
 [<img align="left" alt="aksahdash.me" width="22px" src="https://img.icons8.com/windows/64/ffffff/domain-name.png" />][website]
@@ -32,13 +30,9 @@
 
 <br />
 <br />
-<div align="center">
+<!-- <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashdash458&layout=compact&hide_title=1&card_width=300&theme=algolia" alt="Top language used in my repos" />
-</div>
-
-
-<br />
-<br />
+</div> -->
 
 
 <!--START_SECTION:waka-->
