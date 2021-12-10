@@ -34,7 +34,7 @@
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashdash458&layout=compact&hide_title=1&card_width=300&theme=algolia" alt="Top language used in my repos" />
 </div> -->
 
-
+### Top language used (weekly)
 <!--START_SECTION:waka-->
 ```text
 Java     6 hrs 18 mins   ██████████████████████░░░   88.23 % 
