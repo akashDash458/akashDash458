@@ -37,11 +37,7 @@
 ### Top language used (weekly)
 <!--START_SECTION:waka-->
 ```text
-Python   6 hrs 38 mins   ██████████████████░░░░░░░   71.41 % 
-Java     1 hr 36 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.34 % 
-Scala    26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-Bash     14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-TOML     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+
 ```
 <!--END_SECTION:waka-->
 
