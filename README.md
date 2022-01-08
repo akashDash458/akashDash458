@@ -37,8 +37,8 @@
 ### Top language used (weekly)
 <!--START_SECTION:waka-->
 ```text
-Python   44 mins         ███████████████▒░░░░░░░░░   60.90 % 
-Java     28 mins         █████████▓░░░░░░░░░░░░░░░   38.85 % 
+Python   41 mins         ██████████████░░░░░░░░░░░   55.35 % 
+Java     33 mins         ███████████░░░░░░░░░░░░░░   44.41 % 
 ```
 <!--END_SECTION:waka-->
 
