@@ -20,7 +20,6 @@
 [<img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/240/000000/c-plus-plus-logo.png" />][website]
 [<img align="left" alt="Go" width="26px" src="https://img.icons8.com/color/144/000000/golang.png" />][website]
 [<img align="left" alt="Play Framework" width="26px" src="https://avatars.githubusercontent.com/u/319107" />][website]
-[<img align="left" alt="Spring Boot" width="26px" src="https://img.icons8.com/color/48/000000/spring-logo.png" />][website]
 [<img align="left" alt="Docker" width="26px" src="https://img.icons8.com/fluency/48/000000/docker.png" />][website]
 [<img align="left" alt="OIDC" width="26px" src="https://img.icons8.com/color/96/000000/openid.png" />][website]
 [<img align="left" alt="Postgres" width="26px" src="https://img.icons8.com/color/96/000000/postgreesql.png" />][website]
