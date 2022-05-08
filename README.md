@@ -37,12 +37,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python     4 hrs 9 mins    ██████████████████▒░░░░░░   73.39 %
-Docker     1 hr 16 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.52 %
-Java       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-TOML       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-YAML       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-sbt        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
