@@ -37,7 +37,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python         17 mins         ██████████████████████▓░░   90.73 %
+Java           1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
+sbt            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Docker         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+YAML           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+JavaScript     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
